@@ -1,0 +1,6 @@
+name: FX
+version: ${project.version}
+main: me.superischroma.fx.FX
+api-version: 1.13
+authors: [super]
+description: i ain't no fed
